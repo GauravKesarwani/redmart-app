@@ -1,0 +1,17 @@
+$input-border: 1px solid #CCC;
+
+body {
+  color: #262828;
+  margin: 0;
+}
+
+.btn {
+  display: inline-block;
+  cursor: pointer;
+  border: $input-border;
+  padding: 5px 15px;
+  font-size: 12px;
+  font-weight: 400;
+  text-align: center;
+  margin: 0 2px;
+}
